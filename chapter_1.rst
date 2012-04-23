@@ -1,6 +1,5 @@
 Chapter 1: from zero to deploy
 ==============================
-
 Weldome to `Python Web Tutorial: Learn Python Web Development by Example`_. The goal of this book is to be the best answer to the question, “If I want to learn web development with Python, where should I start?” By the time you finish the Python Web Tutorial, you will have all the skills you need to develop and deploy your own custom web applications with Python. You will also be ready to benefit from the many more advanced books, blogs, and screencasts that are part of the thriving Python educational ecosystem.
 
 
